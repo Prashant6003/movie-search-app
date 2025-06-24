@@ -16,4 +16,4 @@ This Movie Search App is a beginner-friendly React JS project that enables users
 
 *OUTPUT*
 
-![Image](https://github.com/user-attachments/assets/351aa509-fa4d-45b4-af9e-c215c35eb56e)
+![Image](https://github.com/user-attachments/assets/2142b9dc-4558-4fe3-accc-a578ed80cd06)
